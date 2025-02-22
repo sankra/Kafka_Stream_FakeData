@@ -1,8 +1,10 @@
+#importing all the required modules
 import sys
 import json
 import time
 import random
 import argparse
+
 
 from faker import Faker
 from kafka import KafkaProducer
