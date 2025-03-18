@@ -1,0 +1,3 @@
+Kafka Data Stream Project – Overview
+📌 Project Description
+This project implements a real-time data streaming pipeline using Apache Kafka as the central message broker. It ingests, processes, and distributes high-volume, low-latency data across distributed systems for analytics, monitoring, and business intelligence.
