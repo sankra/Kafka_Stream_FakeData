@@ -14,6 +14,7 @@ data = json.load(f)
 #   * getcode to retrieve the username
 
 
+
 class RollingProvider(BaseProvider):
     def produce_msg(self):
 
