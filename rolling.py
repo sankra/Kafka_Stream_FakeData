@@ -36,3 +36,5 @@ class RollingProvider(BaseProvider):
         else:
             nr_item = nr_item + 1
         return message, key
+
+#class RollingProvider(BaseProvider):
